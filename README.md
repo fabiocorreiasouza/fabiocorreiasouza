@@ -27,7 +27,7 @@
 
 ##
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/fabio-correia-souza/">
+  <a target="_blank" href="https://www.linkedin.com/in/fabio-correia-souza/">
     <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
